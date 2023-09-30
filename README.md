@@ -1,2 +1,5 @@
-# Encoding-Techniques
-Implementation of signal encoding technique for transmission
+# [Encoding-Techniques](https://github.com/drs285/Encoding-Techniques)
+*Mentor: Dr. Ashish Mathur*
+
+## About Project
+Implementation of signal encoding techniques  NRZ-L, NRZ-M, NRZ-S, BIO-L, BIO-M and BIO-S for transmission of signal.
